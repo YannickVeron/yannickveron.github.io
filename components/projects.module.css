@@ -1,0 +1,21 @@
+.card{
+    display: inline-block;
+    padding: 5px;
+    background-color: cornflowerblue;
+    margin: 5px;
+    max-width: 20%;
+    min-width: 150px;
+    width: 20%;
+    height: 200px;
+}
+
+.btn{
+    background-color: cornsilk;
+    cursor: pointer;
+    padding:0.5rem;
+    display:block
+}
+
+.btn:hover,.btn:focus{
+    background-color: darkgrey;
+}
